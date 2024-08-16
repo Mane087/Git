@@ -314,22 +314,22 @@ El comando git rebase es una poderosa herramienta en Git que te permite reescrib
 
 ## Seleccionar commits(Git cherry-pick)
 
-## Clonar repositorios(Git clone)
+## Clonar(Git clone)
 
-## Clonar repositorios(Git stash)
+## Guarda temporalmente los cambios(Git stash)
 
-## Clonar repositorios(Git reset)
+## Deshacer commits(Git reset)
 
-## Clonar repositorios(Git diff)
+## Diferencias entre commits(Git diff)
 
-## Clonar repositorios(Git log)
+## Historial de commits(Git log)
 
-## Clonar repositorios(Git tag)
+## Marcar(Git tag)
 
-## Clonar repositorios(Git merge)
+## Combinar ramas(Git merge)
 
-## Clonar repositorios(Git clean)
+## Eliminar archivos untracked(Git clean)
 
-## Clonar repositorios(Git remote)
+## Conexiones a repositorios(Git remote)
 
-## Clonar repositorios(Git bisect)
+## Encontrar commits especificos(Git bisect)
