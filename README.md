@@ -309,9 +309,27 @@ git revert --no-commit 1234abc
 git revert --no-edit 1234abc
 ```
 
-## Reescribir el historial(Git rebase
+## Reescribir el historial(Git rebase)
 El comando git rebase es una poderosa herramienta en Git que te permite reescribir el historial de commits de una rama. En lugar de fusionar (merge) una rama en otra, git rebase toma los commits de la rama actual y los aplica sobre otra base (es decir, sobre otro commit o rama), creando un historial de commits más lineal y limpio.)
 
-## Seleccionar commits(Cherrypick)
+## Seleccionar commits(Git cherry-pick)
 
 ## Clonar repositorios(Git clone)
+
+## Clonar repositorios(Git stash)
+
+## Clonar repositorios(Git reset)
+
+## Clonar repositorios(Git diff)
+
+## Clonar repositorios(Git log)
+
+## Clonar repositorios(Git tag)
+
+## Clonar repositorios(Git merge)
+
+## Clonar repositorios(Git clean)
+
+## Clonar repositorios(Git remote)
+
+## Clonar repositorios(Git bisect)
